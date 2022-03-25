@@ -1,0 +1,16 @@
+C:\febdemos\MVCDemos\NamePicker\bin\Debug\net5.0\NamePicker.exe
+C:\febdemos\MVCDemos\NamePicker\bin\Debug\net5.0\NamePicker.deps.json
+C:\febdemos\MVCDemos\NamePicker\bin\Debug\net5.0\NamePicker.runtimeconfig.json
+C:\febdemos\MVCDemos\NamePicker\bin\Debug\net5.0\NamePicker.runtimeconfig.dev.json
+C:\febdemos\MVCDemos\NamePicker\bin\Debug\net5.0\NamePicker.dll
+C:\febdemos\MVCDemos\NamePicker\bin\Debug\net5.0\NamePicker.pdb
+C:\febdemos\MVCDemos\NamePicker\obj\Debug\net5.0\NamePicker.csproj.AssemblyReference.cache
+C:\febdemos\MVCDemos\NamePicker\obj\Debug\net5.0\NamePicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\febdemos\MVCDemos\NamePicker\obj\Debug\net5.0\NamePicker.AssemblyInfoInputs.cache
+C:\febdemos\MVCDemos\NamePicker\obj\Debug\net5.0\NamePicker.AssemblyInfo.cs
+C:\febdemos\MVCDemos\NamePicker\obj\Debug\net5.0\NamePicker.csproj.CoreCompileInputs.cache
+C:\febdemos\MVCDemos\NamePicker\obj\Debug\net5.0\NamePicker.dll
+C:\febdemos\MVCDemos\NamePicker\obj\Debug\net5.0\refint\NamePicker.dll
+C:\febdemos\MVCDemos\NamePicker\obj\Debug\net5.0\NamePicker.pdb
+C:\febdemos\MVCDemos\NamePicker\obj\Debug\net5.0\NamePicker.genruntimeconfig.cache
+C:\febdemos\MVCDemos\NamePicker\obj\Debug\net5.0\ref\NamePicker.dll
