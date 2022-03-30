@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ImQNtYy4ciRTH9ufj4sPS0ibq2vixiLYqhxhfIAGmwc5tULEh2KjzuI6I16kN8gDCl4aLajm4GbTeaQIOn8Szg==",
+  "dgSpecHash": "otfvfxZkWEj9IhnWys8UPBBEiIB1nbGgcyiXbltTHAJR0+QxPhmi99oZ2OcOaqdYAOCe6A1MiBnK71osuKn3BQ==",
   "success": true,
-  "projectFilePath": "C:\\febdemos\\MVCDemos\\NamePicker\\NamePicker.csproj",
+  "projectFilePath": "C:\\Assignments\\MSSA\\Random Name List\\Random-Name-List\\NamePicker\\NamePicker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

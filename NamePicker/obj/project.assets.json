@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\febdemos\\MVCDemos\\NamePicker\\NamePicker.csproj",
+      "projectUniqueName": "C:\\Assignments\\MSSA\\Random Name List\\Random-Name-List\\NamePicker\\NamePicker.csproj",
       "projectName": "NamePicker",
-      "projectPath": "C:\\febdemos\\MVCDemos\\NamePicker\\NamePicker.csproj",
+      "projectPath": "C:\\Assignments\\MSSA\\Random Name List\\Random-Name-List\\NamePicker\\NamePicker.csproj",
       "packagesPath": "C:\\Users\\qwert\\.nuget\\packages\\",
-      "outputPath": "C:\\febdemos\\MVCDemos\\NamePicker\\obj\\",
+      "outputPath": "C:\\Assignments\\MSSA\\Random Name List\\Random-Name-List\\NamePicker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,3 +14,19 @@ C:\febdemos\MVCDemos\NamePicker\obj\Debug\net5.0\refint\NamePicker.dll
 C:\febdemos\MVCDemos\NamePicker\obj\Debug\net5.0\NamePicker.pdb
 C:\febdemos\MVCDemos\NamePicker\obj\Debug\net5.0\NamePicker.genruntimeconfig.cache
 C:\febdemos\MVCDemos\NamePicker\obj\Debug\net5.0\ref\NamePicker.dll
+C:\Assignments\MSSA\Random Name List\Random-Name-List\NamePicker\bin\Debug\net5.0\NamePicker.exe
+C:\Assignments\MSSA\Random Name List\Random-Name-List\NamePicker\bin\Debug\net5.0\NamePicker.deps.json
+C:\Assignments\MSSA\Random Name List\Random-Name-List\NamePicker\bin\Debug\net5.0\NamePicker.runtimeconfig.json
+C:\Assignments\MSSA\Random Name List\Random-Name-List\NamePicker\bin\Debug\net5.0\NamePicker.runtimeconfig.dev.json
+C:\Assignments\MSSA\Random Name List\Random-Name-List\NamePicker\bin\Debug\net5.0\NamePicker.dll
+C:\Assignments\MSSA\Random Name List\Random-Name-List\NamePicker\bin\Debug\net5.0\NamePicker.pdb
+C:\Assignments\MSSA\Random Name List\Random-Name-List\NamePicker\obj\Debug\net5.0\NamePicker.csproj.AssemblyReference.cache
+C:\Assignments\MSSA\Random Name List\Random-Name-List\NamePicker\obj\Debug\net5.0\NamePicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\MSSA\Random Name List\Random-Name-List\NamePicker\obj\Debug\net5.0\NamePicker.AssemblyInfoInputs.cache
+C:\Assignments\MSSA\Random Name List\Random-Name-List\NamePicker\obj\Debug\net5.0\NamePicker.AssemblyInfo.cs
+C:\Assignments\MSSA\Random Name List\Random-Name-List\NamePicker\obj\Debug\net5.0\NamePicker.csproj.CoreCompileInputs.cache
+C:\Assignments\MSSA\Random Name List\Random-Name-List\NamePicker\obj\Debug\net5.0\NamePicker.dll
+C:\Assignments\MSSA\Random Name List\Random-Name-List\NamePicker\obj\Debug\net5.0\refint\NamePicker.dll
+C:\Assignments\MSSA\Random Name List\Random-Name-List\NamePicker\obj\Debug\net5.0\NamePicker.pdb
+C:\Assignments\MSSA\Random Name List\Random-Name-List\NamePicker\obj\Debug\net5.0\NamePicker.genruntimeconfig.cache
+C:\Assignments\MSSA\Random Name List\Random-Name-List\NamePicker\obj\Debug\net5.0\ref\NamePicker.dll
